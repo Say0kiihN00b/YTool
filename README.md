@@ -1,10 +1,10 @@
-<h2> A video installation tool, for the YouTube platform!<h2/>
+<h2> A video installation tool, for the YouTube platform!
 
 Created by: Sayokiih
 GitHub: https://github.com/Say0kiihN00b
 
 Idea: Near Shelby 
-GitHub: https://github.com/nearshelby-yt
+GitHub: https://github.com/nearshelby-yt <h2/>
 
 How To Install:
 
