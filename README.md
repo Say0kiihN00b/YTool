@@ -6,7 +6,7 @@ GitHub: https://github.com/Say0kiihN00b
 Idea: Near Shelby 
 GitHub: https://github.com/nearshelby-yt
 
-<h3> INSTALLATION <h3/>
+<h2>HOW TO INSTALL<h2/>
 apt update -y 
 apt upgrade -y
 apt install python -y
