@@ -6,9 +6,9 @@ GitHub: https://github.com/Say0kiihN00b
 Idea: Near Shelby 
 GitHub: https://github.com/nearshelby-yt
 
-<
-
-apt update -y && apt upgrade -y
+<h3> INSTALLATION <h3/>
+apt update -y 
+apt upgrade -y
 apt install python -y
 apt install python2 -y
 git clone https://github.com/Say0kiihN00b/YTool
