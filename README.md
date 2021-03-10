@@ -6,7 +6,8 @@ GitHub: https://github.com/Say0kiihN00b
 Idea: Near Shelby 
 GitHub: https://github.com/nearshelby-yt
 
-<h1> REQUIREMENTS <h1/>
+<
+
 apt update -y && apt upgrade -y
 apt install python -y
 apt install python2 -y
