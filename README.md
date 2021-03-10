@@ -1,5 +1,4 @@
-YTool
-Uma ferramenta para instalar videos do YouTube!
+<h2> A video installation tool, for the YouTube platform!<h2/>
 
 Created by: Sayokiih
 GitHub: https://github.com/Say0kiihN00b
