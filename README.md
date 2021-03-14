@@ -1,6 +1,6 @@
  A video installation tool, for the YouTube platform!
 
-<h1>Created by: Sayokiih<h1/>
+Created by: Sayokiih
 GitHub: https://github.com/Say0kiihN00b
 
 Idea: Near Shelby 
